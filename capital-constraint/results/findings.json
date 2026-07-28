@@ -1,0 +1,101 @@
+{
+ "n": 30,
+ "germany_int_pct_rev": 2.47958940598133,
+ "pct_above_germany": 70.0,
+ "agg_gap_2pct_bn": 53.56740249186535,
+ "agg_gap_5pct_bn": 1345.181510309155,
+ "median_int": 4.2130752043750554,
+ "core_market": [
+  {
+   "country": "United States",
+   "gap_5.0_usd_bn": 486.4023306669054,
+   "mil_pct_gdp": 3.41921653228044,
+   "int_pct_revenue": 20.2909241993276
+  },
+  {
+   "country": "United Kingdom",
+   "gap_5.0_usd_bn": 108.92570529896271,
+   "mil_pct_gdp": 2.2786177901127,
+   "int_pct_revenue": 8.31995334939262
+  },
+  {
+   "country": "France",
+   "gap_5.0_usd_bn": 99.21957398473901,
+   "mil_pct_gdp": 2.05257687860637,
+   "int_pct_revenue": 4.23089307611782
+  },
+  {
+   "country": "Italy",
+   "gap_5.0_usd_bn": 86.5170293717794,
+   "mil_pct_gdp": 1.60924561245844,
+   "int_pct_revenue": 9.4182690172743
+  },
+  {
+   "country": "Canada",
+   "gap_5.0_usd_bn": 85.53391130130807,
+   "mil_pct_gdp": 1.31303419578919,
+   "int_pct_revenue": 8.3629853130122
+  },
+  {
+   "country": "Spain",
+   "gap_5.0_usd_bn": 68.02020706380101,
+   "mil_pct_gdp": 1.43210737406914,
+   "int_pct_revenue": 6.53633128424614
+  },
+  {
+   "country": "Turkiye",
+   "gap_5.0_usd_bn": 49.15586354307463,
+   "mil_pct_gdp": 1.92255231276371,
+   "int_pct_revenue": 11.655324836036
+  },
+  {
+   "country": "Belgium",
+   "gap_5.0_usd_bn": 27.008730996486317,
+   "mil_pct_gdp": 1.2770531266155,
+   "int_pct_revenue": 4.51236187590081
+  },
+  {
+   "country": "Portugal",
+   "gap_5.0_usd_bn": 12.02053935274585,
+   "mil_pct_gdp": 1.53226822745255,
+   "int_pct_revenue": 5.4068590994803
+  },
+  {
+   "country": "Romania",
+   "gap_5.0_usd_bn": 11.582225408126396,
+   "mil_pct_gdp": 2.29815245791591,
+   "int_pct_revenue": 7.28795608026041
+  },
+  {
+   "country": "Poland",
+   "gap_5.0_usd_bn": 8.756181901822615,
+   "mil_pct_gdp": 4.15439387975356,
+   "int_pct_revenue": 5.21673872257117
+  },
+  {
+   "country": "Hungary",
+   "gap_5.0_usd_bn": 7.009418034619937,
+   "mil_pct_gdp": 2.15630980446665,
+   "int_pct_revenue": 12.224684190403
+  },
+  {
+   "country": "Greece",
+   "gap_5.0_usd_bn": 5.253566092346854,
+   "mil_pct_gdp": 3.12797536550149,
+   "int_pct_revenue": 7.48339997144081
+  },
+  {
+   "country": "Albania",
+   "gap_5.0_usd_bn": 0.904642433683805,
+   "mil_pct_gdp": 2.03786228936679,
+   "int_pct_revenue": 7.41703631822189
+  },
+  {
+   "country": "North Macedonia",
+   "gap_5.0_usd_bn": 0.5532607832111277,
+   "mil_pct_gdp": 2.10352863426818,
+   "int_pct_revenue": 5.92312764842562
+  }
+ ],
+ "core_share_of_gap": 78.56658585730341
+}

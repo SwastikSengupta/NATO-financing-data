@@ -1,0 +1,60 @@
+{
+ "median": 8.937631451381385,
+ "n": 18,
+ "constrained": [
+  {
+   "country": "Sri Lanka",
+   "int_pct_revenue": 79.8744543518094,
+   "elec_access": 100.0,
+   "gdp_pc": 5002.07904353724
+  },
+  {
+   "country": "India",
+   "int_pct_revenue": 33.9761997637185,
+   "elec_access": 99.9,
+   "gdp_pc": 2702.47987141553
+  },
+  {
+   "country": "Bangladesh",
+   "int_pct_revenue": 20.8277384040526,
+   "elec_access": 99.5,
+   "gdp_pc": 2597.34352335275
+  },
+  {
+   "country": "Philippines",
+   "int_pct_revenue": 17.2862227284341,
+   "elec_access": 94.8,
+   "gdp_pc": 4170.72347271451
+  },
+  {
+   "country": "Malaysia",
+   "int_pct_revenue": 15.5508470091257,
+   "elec_access": 100.0,
+   "gdp_pc": 13124.5554178269
+  },
+  {
+   "country": "Papua New Guinea",
+   "int_pct_revenue": 14.1768468150307,
+   "elec_access": 43.3,
+   "gdp_pc": 3019.5309140573
+  },
+  {
+   "country": "Fiji",
+   "int_pct_revenue": 13.8601085707298,
+   "elec_access": 95.9,
+   "gdp_pc": 6642.00449450523
+  },
+  {
+   "country": "Laos",
+   "int_pct_revenue": 11.8499360825446,
+   "elec_access": 96.5,
+   "gdp_pc": 2324.76353098791
+  },
+  {
+   "country": "Myanmar",
+   "int_pct_revenue": 9.55530955337015,
+   "elec_access": 80.4,
+   "gdp_pc": 1488.87527836542
+  }
+ ]
+}
