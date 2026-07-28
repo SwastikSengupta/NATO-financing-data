@@ -3,8 +3,6 @@
 Debt-service burden as a screen for multilateral financing need, applied to
 allied defence and to Indo-Pacific grid infrastructure.
 
-**Every input is observed World Bank data. Nothing is assumed, nothing simulated.
-Reproduces in under three minutes, no API key.**
 
 ## Findings
 
